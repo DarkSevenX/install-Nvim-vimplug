@@ -1,7 +1,7 @@
 # !/bin/bash
 
 echo Instalando NeoVim...
-sudo apt get-install neovim 
+sudo apt-get install neovim
 mkdir ~/.config/nvim/
 cp init.vim ~/.config/nvim/
 
